@@ -6,6 +6,6 @@ function happyHolidays() {
 function happyHolidaysTo(name) {
   return (`Happy holidays, ${name}!`)
 
-  happyHolidaysto(you)
+  happyHolidaysTo(you)
   happyHolidaysTo(everyone)
 }
