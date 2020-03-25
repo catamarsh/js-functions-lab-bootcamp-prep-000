@@ -9,10 +9,3 @@ function happyHolidaysTo(name) {
   happyHolidaysTo(you)
   happyHolidaysTo(everyone)
 }
-
-function happyCustomHolidayTo(holiday, name) {
-  return (`Happy ${holiday}, ${name}!`)
-
-  happyCustomHolidayTo(Independence Day)
-  happyCustomHolidayTo(New Year)
-}
